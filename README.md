@@ -17,11 +17,5 @@
 - Using state variables to store the state of the game
 - DRY(Do not Repeat Yourself) principle by using functions
 
-## Screenshots of the game -
-<br><br>
-<img src="ss/1.PNG" ></img>
-<br><br>
-<img src="ss/2.PNG" ></img>
-<br><br>
-<img src="ss/3.PNG" ></img>
+
 
